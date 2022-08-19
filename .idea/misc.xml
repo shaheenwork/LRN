@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/activity_cats.xml" value="0.17615511551155116" />
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/activity_second.xml" value="0.17734375" />
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/fragment_add_users.xml" value="0.1742986798679868" />
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/fragment_one.xml" value="0.17734375" />
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/fragment_show_users.xml" value="0.11614583333333334" />
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/fragment_two.xml" value="0.17734375" />
+        <entry key="..\:/Shaheen/Other Files/LRN/app/src/main/res/layout/item_user.xml" value="0.12994791666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

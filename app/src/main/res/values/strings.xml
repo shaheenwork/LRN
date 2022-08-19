@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LRN</string>
+    <string name="hint_user_name">User Name</string>
+    <string name="hint_password">Password</string>
+    <string name="label_login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_fragment_one">Fragment One</string>
+    <string name="label_fragment_two">Fragment Two</string>
+    <string name="title_activity_test_compose">TestComposeActivity</string>
+</resources>
